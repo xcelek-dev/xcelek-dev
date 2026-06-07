@@ -24,7 +24,6 @@ I specialize in developing Minecraft plugins, mods, and Discord bots.
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="35" width="35" style="border-radius: 8px;" alt="PaperMC" />
   <img src="https://fabricmc.net/assets/logo.png" height="35" width="35" style="border-radius: 8px;" alt="Fabric" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="IDE" />
-  <img src="https://skillicons.dev/icons?i=nixos,git" height="35" alt="Tools & Env" />
 </p>
 
 ---
