@@ -17,11 +17,10 @@ I specialize in developing Minecraft plugins, mods, and Discord bots.
 
 ### 💻 Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py" height="48" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,vscode" height="48" alt="Languages and IDE" />
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="48" width="48" style="border-radius: 8px;" alt="PaperMC" />
   <img src="https://fabricmc.net/assets/logo.png" height="48" width="48" style="border-radius: 8px;" alt="Fabric" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="IDE" />
 </p>
 
 ---
