@@ -8,6 +8,7 @@ I specialize in developing Minecraft plugins, mods, and Discord bots.
 - **Community Tools:** I enjoy creating utilities for communities — Discord bots, automation scripts, and server setups.
 - **Workflow:** Constantly learning new technologies and optimizing my development environment.
 
+
 **My Main Developer Profile:** If you are looking for my academic projects, web applications, or mobile development work, feel free to check out my main GitHub account: [@Frantisek-Vojta](https://github.com/Frantisek-Vojta).
 
 ---
