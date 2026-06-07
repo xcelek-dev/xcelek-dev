@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ I'm Currently Working On
-- **Discord bot** - mr. koblizek v2 [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
+- **Discord bot** - mr. koblizek v2 - [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
 
