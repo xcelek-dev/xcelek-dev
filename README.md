@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ I'm Currently Working On
-- **Minecraft Plugin** – *Chunk Unlocker* (bringing a unique progression mechanic to survival gameplay).
+- **Discord bot** - mr. koblizek v2 [@xcelek-dev/mr-koblizek-v2](https://github.com/xcelek-dev/mr-koblizek-v2)
 
 ---
 
