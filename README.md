@@ -1,4 +1,6 @@
-# Hi there, I'm xcelek-dev! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=2000&color=00FFFF&width=635&lines=Hi%2C+%F0%9F%91%8B+I%27m+xcelek-dev" alt="Typing Effect" />
+</div>
 
 I specialize in developing Minecraft plugins, mods, and Discord bots.
 
