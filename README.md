@@ -20,7 +20,7 @@
 ### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,vscode" height="48" alt="Languages and IDE" />
+  <img src="https://skillicons.dev/icons?i=java,py,vscode,claude" height="48" alt="Languages and IDE" />
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="48" width="48" style="border-radius: 8px;" alt="PaperMC" />
   <img src="https://fabricmc.net/assets/logo.png" height="48" width="48" style="border-radius: 8px;" alt="Fabric" />
 </p>
